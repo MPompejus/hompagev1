@@ -13,9 +13,13 @@ a:hover {
     color: yellow;
 }
 h1{
+    padding: 4px 5px 4px 10px;
     background-color: black;
     color: white;
     font-family: Arial;
     border-radius: 4px;
 }
 
+ul {
+    padding: 4px 5px 4px 40px;
+}
